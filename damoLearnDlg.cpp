@@ -165,8 +165,5 @@ void CdamoLearnDlg::OnBnClickedregister()
 
 void CdamoLearnDlg::OnBnClickedtest()
 {
-	Idmsoft* dm = InitNewDm();
-	dm->MoveTo(500, 500);
-	Sleep(54564564);
 	// TODO: 在此添加控件通知处理程序代码
 }
